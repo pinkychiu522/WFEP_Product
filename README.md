@@ -1,4 +1,4 @@
-# WFEP Wellness — Product Store
+# WFEP Wellness — Product Store vincci
 
 Modern Next.js storefront for **Calmexa XR**, a fictional wellness supplement, with full legal pages and cookie consent.
 
