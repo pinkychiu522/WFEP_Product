@@ -1,13 +1,29 @@
-./node_modules
-./dist
-./build
-./public
-./src
-./styles
-./utils
-./components
-./pages
-./public
-./styles
-./utils
-./.next 
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env
+.env*.local
+
+# typescript
+next-env.d.ts
