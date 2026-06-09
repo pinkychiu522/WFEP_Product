@@ -72,7 +72,7 @@ export default function HomePage() {
           <Image src="https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=400&q=80" alt="家庭學習場景 1" width={400} height={400} />
           <Image src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&q=80" alt="家庭學習場景 2" width={400} height={400} />
           <Image src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=400&q=80" alt="家庭學習場景 3" width={400} height={400} />
-          <Image src="https://images.unsplash.com/photo-1427504494784-3a9ca7044f45?w=400&q=80" alt="課堂學習場景 1" width={400} height={400} />
+          <Image src="/images/classroom-learning-scene.png" alt="課堂學習場景 1" width={400} height={400} />
           <Image src="https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=400&q=80" alt="課堂學習場景 2" width={400} height={400} />
           <Image src="https://images.unsplash.com/photo-1509062522246-3755977927d7?w=400&q=80" alt="課堂學習場景 3" width={400} height={400} />
         </div>
@@ -81,7 +81,7 @@ export default function HomePage() {
 
         <section className="app-section">
           <Image
-            src="https://images.unsplash.com/photo-1544197150-99a580c84f55?w=600&q=80"
+            src="/images/interactive-learning-app.png"
             alt="AR 互動學習 App"
             width={600}
             height={400}

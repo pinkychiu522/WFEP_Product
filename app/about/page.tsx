@@ -13,8 +13,8 @@ export default function AboutPage() {
         </h1>
         <Image
           className="full-img"
-          src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&q=80"
-          alt="母親與孩子互動學習"
+          src="/images/who-we-are.jpeg"
+          alt="ExploreX 團隊"
           width={1200}
           height={675}
         />
@@ -31,7 +31,7 @@ export default function AboutPage() {
 
         <div className="img-banner">
           <Image
-            src="https://images.unsplash.com/photo-1521737710142-3709224bf782?w=1200&q=80"
+            src="/images/professional-team-consultation.png"
             alt="專業團隊諮詢"
             width={1200}
             height={525}
